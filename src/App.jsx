@@ -19,7 +19,7 @@ function App() {
     image: '',
     price: '',
     info: ''
-  }); 
+  });           
 
   const resetForm = () =>{
     setFormData( { name:'',image:'',price:'',info:'' } );
